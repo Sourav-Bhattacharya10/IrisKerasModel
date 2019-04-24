@@ -1,0 +1,10 @@
+xlrd
+numpy
+pandas
+pymssql
+pymongo
+scikit-learn
+keras
+tensorflow
+requests
+matplotlib
