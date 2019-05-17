@@ -158,7 +158,7 @@
     "logfilepath" : "./logfile.log",
     "modelfolder":"./savedmodelfolder/",
     "scalerfilename" : "ModelScalerObject.joblib",
-    "savedmodelfilename" : "IrisModel.h5",
+    "savedmodelfilename" : "IrisModelWeights.h5",
     "metricfilepath" : "metric.json",
     "dictuniquevaluefilepath": "dictUniqueValues.joblib",
     "mlpipelinepath" : "C:\\Users\\RazrLab_Sourav\\Documents\\Jupyter_Notebooks\\Machine_Learning_Projects\\Keras\\IrisClassificationTest"

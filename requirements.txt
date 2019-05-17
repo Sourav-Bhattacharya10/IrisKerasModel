@@ -5,6 +5,7 @@ pymssql
 pymongo
 scikit-learn
 keras
+h5py
 tensorflow
 requests
 matplotlib
